@@ -1,6 +1,5 @@
 # xpathexercise
-```
-```python
+```py
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
@@ -150,6 +149,4 @@ time.sleep(3)
 print("Registration completed!")
 
 driver.quit()
-```
-
 ```
